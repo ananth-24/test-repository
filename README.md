@@ -1,2 +1,2 @@
 # test-repository
-Test repository for Hackathon
+Test repository for CIO Hackathon
